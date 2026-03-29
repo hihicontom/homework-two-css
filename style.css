@@ -1,0 +1,10 @@
+/* Sử dụng Advanced Selector đơn giản */
+.fancy {
+    color: darkblue;
+    text-transform: uppercase;
+}
+
+.plain {
+    font-style: italic;
+    display: block;
+}
